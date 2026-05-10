@@ -130,6 +130,7 @@ Testing dilakukan di Postman
 *Request Body -> Raw JSON -> login user hanya memasukkan username dan password*
 
 2. Product Service
+
 | Method | Endpoint | Deskripsi |
 | :--- | :--- | :--- |
 | GET | /store/products | Ambil semua produk |
